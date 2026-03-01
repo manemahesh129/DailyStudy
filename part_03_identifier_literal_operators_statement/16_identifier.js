@@ -9,3 +9,5 @@
 
 let myVariable = 4;
 // This is a valid identifier and can be used to declare a variable. The code will execute without any errors.
+
+let $myVariable = 5;
