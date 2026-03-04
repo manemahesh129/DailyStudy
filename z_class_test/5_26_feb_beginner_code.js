@@ -1,11 +1,12 @@
 // For Loop
-
-// 1️⃣ Print "Hello" 5 times
-// for (let i = 1; i <=5; i++) { // Initialization: let i = 1; Condition: i <= 5; Increment: i++
-// // i -> meaning "iteration" or "index" and is commonly used as a variable name in loops to represent the current iteration number. It starts at 1 and increments by 1 in each iteration until it reaches 5, at which point the loop will stop executing.
-// // i++ is a shorthand for i = i + 1, which means that in each iteration, the value of i will be increased by 1. This allows the loop to progress through its iterations and eventually terminate when the condition (i <= 5) is no longer true.
-// console.log("Hello"); // This line of code will be executed in each iteration of the loop, printing "Hello" to the console 5 times.
-// }
+/*
+1️⃣ Print "Hello" 5 times
+for (let i = 1; i <=5; i++) { // Initialization: let i = 1; Condition: i <= 5; Increment: i++
+// i -> meaning "iteration" or "index" and is commonly used as a variable name in loops to represent the current iteration number. It starts at 1 and increments by 1 in each iteration until it reaches 5, at which point the loop will stop executing.
+// i++ is a shorthand for i = i + 1, which means that in each iteration, the value of i will be increased by 1. This allows the loop to progress through its iterations and eventually terminate when the condition (i <= 5) is no longer true.
+console.log("Hello"); // This line of code will be executed in each iteration of the loop, printing "Hello" to the console 5 times.
+}
+*/
 
 // // 2️⃣  Print numbers from 1 to 10
 // for (let number = 1; number <= 10; number ++) {
