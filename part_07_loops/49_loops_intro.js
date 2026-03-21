@@ -18,8 +18,3 @@ for (let i = 0; i <= 5; i++) {
     let x = "Chat";
 console.log("x: " + x + " i: " + i)
 };
-
-// Types of Loops:
-// 1. For Loop: Used when the number of iterations is known.
-// 2. While Loop: Used when the number of iterations is not known and the loop needs to continue until a certain condition is met.
-// 3. Do...While Loop: Similar to the while loop, but it guarantees that the block of code will be executed at least once, as the condition is checked after the execution of the block.

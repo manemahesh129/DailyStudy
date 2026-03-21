@@ -22,3 +22,9 @@ let m = 10;
 let n = m ++; // n is assigned the value of m (10), then m is incremented to 11
 console.log(n); // n is 10, because the value of m is used before it is incremented
 console.log(m); // m is 11, because it was incremented after its value was assigned to n
+
+// Things to Remember:
+// 1. The increment operator increases the value of a variable by 1.
+// 2. The pre increment operator (++variable) increments the variable before its value is used in an expression.
+// 3. The post increment operator (variable++) increments the variable after its value is used in an expression.
+// 4. The choice between pre and post increment depends on whether you want to use the original value or the incremented value in your expression.
